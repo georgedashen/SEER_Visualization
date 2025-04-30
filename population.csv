@@ -1,0 +1,970 @@
+State,Age recode with <1 year olds,Count
+Alabama,00 years,56246
+Alabama,01-04 years,235674
+Alabama,05-09 years,299404
+Alabama,10-14 years,310210
+Alabama,15-19 years,310127
+Alabama,20-24 years,323264
+Alabama,25-29 years,331899
+Alabama,30-34 years,318647
+Alabama,35-39 years,302872
+Alabama,40-44 years,293490
+Alabama,45-49 years,302481
+Alabama,50-54 years,305693
+Alabama,55-59 years,332661
+Alabama,60-64 years,324620
+Alabama,65-69 years,281928
+Alabama,70-74 years,235789
+Alabama,75-79 years,160349
+Alabama,80-84 years,103319
+Alabama,85+ years,92859
+Alaska,00 years,9706
+Alaska,01-04 years,40043
+Alaska,05-09 years,51643
+Alaska,10-14 years,49030
+Alaska,15-19 years,44846
+Alaska,20-24 years,50553
+Alaska,25-29 years,58506
+Alaska,30-34 years,57802
+Alaska,35-39 years,53686
+Alaska,40-44 years,44455
+Alaska,45-49 years,41185
+Alaska,50-54 years,42291
+Alaska,55-59 years,46576
+Alaska,60-64 years,44960
+Alaska,65-69 years,37529
+Alaska,70-74 years,26629
+Alaska,75-79 years,15938
+Alaska,80-84 years,8441
+Alaska,85+ years,7339
+Arizona,00 years,81409
+Arizona,01-04 years,343346
+Arizona,05-09 years,458844
+Arizona,10-14 years,478216
+Arizona,15-19 years,481924
+Arizona,20-24 years,504348
+Arizona,25-29 years,529789
+Arizona,30-34 years,501041
+Arizona,35-39 years,472582
+Arizona,40-44 years,441334
+Arizona,45-49 years,433090
+Arizona,50-54 years,426594
+Arizona,55-59 years,448906
+Arizona,60-64 years,446003
+Arizona,65-69 years,412556
+Arizona,70-74 years,374349
+Arizona,75-79 years,267038
+Arizona,80-84 years,167934
+Arizona,85+ years,152098
+Arkansas,00 years,36035
+Arkansas,01-04 years,150257
+Arkansas,05-09 years,193212
+Arkansas,10-14 years,200458
+Arkansas,15-19 years,197095
+Arkansas,20-24 years,201289
+Arkansas,25-29 years,202805
+Arkansas,30-34 years,196068
+Arkansas,35-39 years,190974
+Arkansas,40-44 years,181756
+Arkansas,45-49 years,179715
+Arkansas,50-54 years,178352
+Arkansas,55-59 years,196283
+Arkansas,60-64 years,189917
+Arkansas,65-69 years,168129
+Arkansas,70-74 years,142360
+Arkansas,75-79 years,100225
+Arkansas,80-84 years,64487
+Arkansas,85+ years,61105
+California,00 years,446864
+California,01-04 years,1863516
+California,05-09 years,2468600
+California,10-14 years,2505304
+California,15-19 years,2513522
+California,20-24 years,2597931
+California,25-29 years,3011714
+California,30-34 years,3005343
+California,35-39 years,2781508
+California,40-44 years,2524241
+California,45-49 years,2452996
+California,50-54 years,2457952
+California,55-59 years,2466381
+California,60-64 years,2296040
+California,65-69 years,1918055
+California,70-74 years,1551490
+California,75-79 years,1052210
+California,80-84 years,698039
+California,85+ years,756372
+Colorado,00 years,63076
+Colorado,01-04 years,261507
+Colorado,05-09 years,344851
+Colorado,10-14 years,361425
+Colorado,15-19 years,366386
+Colorado,20-24 years,380269
+Colorado,25-29 years,461679
+Colorado,30-34 years,462331
+Colorado,35-39 years,433137
+Colorado,40-44 years,382981
+Colorado,45-49 years,360321
+Colorado,50-54 years,344624
+Colorado,55-59 years,357179
+Colorado,60-64 years,351566
+Colorado,65-69 years,303686
+Colorado,70-74 years,239677
+Colorado,75-79 years,149796
+Colorado,80-84 years,91938
+Colorado,85+ years,91290
+Connecticut,00 years,34232
+Connecticut,01-04 years,145359
+Connecticut,05-09 years,193731
+Connecticut,10-14 years,210332
+Connecticut,15-19 years,234796
+Connecticut,20-24 years,238322
+Connecticut,25-29 years,225727
+Connecticut,30-34 years,222900
+Connecticut,35-39 years,221485
+Connecticut,40-44 years,210397
+Connecticut,45-49 years,215492
+Connecticut,50-54 years,245442
+Connecticut,55-59 years,264570
+Connecticut,60-64 years,248225
+Connecticut,65-69 years,200667
+Connecticut,70-74 years,163097
+Connecticut,75-79 years,116400
+Connecticut,80-84 years,75258
+Connecticut,85+ years,90574
+Delaware,00 years,10497
+Delaware,01-04 years,43964
+Delaware,05-09 years,56799
+Delaware,10-14 years,58119
+Delaware,15-19 years,60477
+Delaware,20-24 years,57543
+Delaware,25-29 years,63991
+Delaware,30-34 years,65661
+Delaware,35-39 years,60335
+Delaware,40-44 years,55508
+Delaware,45-49 years,55020
+Delaware,50-54 years,61541
+Delaware,55-59 years,69431
+Delaware,60-64 years,70329
+Delaware,65-69 years,64177
+Delaware,70-74 years,54285
+Delaware,75-79 years,36546
+Delaware,80-84 years,21982
+Delaware,85+ years,20604
+Florida,00 years,219558
+Florida,01-04 years,915447
+Florida,05-09 years,1179044
+Florida,10-14 years,1211524
+Florida,15-19 years,1202855
+Florida,20-24 years,1263937
+Florida,25-29 years,1395878
+Florida,30-34 years,1422593
+Florida,35-39 years,1355944
+Florida,40-44 years,1293216
+Florida,45-49 years,1323586
+Florida,50-54 years,1369217
+Florida,55-59 years,1497423
+Florida,60-64 years,1444996
+Florida,65-69 years,1326632
+Florida,70-74 years,1212944
+Florida,75-79 years,903122
+Florida,80-84 years,599087
+Florida,85+ years,596309
+Georgia,00 years,124993
+Georgia,01-04 years,522551
+Georgia,05-09 years,687297
+Georgia,10-14 years,726884
+Georgia,15-19 years,731958
+Georgia,20-24 years,726152
+Georgia,25-29 years,765892
+Georgia,30-34 years,740467
+Georgia,35-39 years,710868
+Georgia,40-44 years,683979
+Georgia,45-49 years,698848
+Georgia,50-54 years,692250
+Georgia,55-59 years,694684
+Georgia,60-64 years,628527
+Georgia,65-69 years,524975
+Georgia,70-74 years,434289
+Georgia,75-79 years,286294
+Georgia,80-84 years,173520
+Georgia,85+ years,155589
+Hawaii,00 years,16244
+Hawaii,01-04 years,67796
+Hawaii,05-09 years,87555
+Hawaii,10-14 years,78574
+Hawaii,15-19 years,74824
+Hawaii,20-24 years,87107
+Hawaii,25-29 years,98412
+Hawaii,30-34 years,97947
+Hawaii,35-39 years,95419
+Hawaii,40-44 years,86460
+Hawaii,45-49 years,81388
+Hawaii,50-54 years,83325
+Hawaii,55-59 years,87874
+Hawaii,60-64 years,89001
+Hawaii,65-69 years,82862
+Hawaii,70-74 years,71844
+Hawaii,75-79 years,48085
+Hawaii,80-84 years,30143
+Hawaii,85+ years,42146
+Idaho,00 years,21547
+Idaho,01-04 years,92301
+Idaho,05-09 years,125055
+Idaho,10-14 years,132772
+Idaho,15-19 years,127139
+Idaho,20-24 years,119974
+Idaho,25-29 years,122723
+Idaho,30-34 years,118855
+Idaho,35-39 years,120252
+Idaho,40-44 years,113978
+Idaho,45-49 years,104222
+Idaho,50-54 years,101277
+Idaho,55-59 years,109050
+Idaho,60-64 years,111774
+Idaho,65-69 years,102392
+Idaho,70-74 years,83550
+Idaho,75-79 years,55797
+Idaho,80-84 years,33841
+Idaho,85+ years,30414
+Illinois,00 years,140052
+Illinois,01-04 years,587467
+Illinois,05-09 years,762503
+Illinois,10-14 years,795778
+Illinois,15-19 years,812241
+Illinois,20-24 years,818355
+Illinois,25-29 years,882835
+Illinois,30-34 years,858449
+Illinois,35-39 years,841651
+Illinois,40-44 years,794767
+Illinois,45-49 years,777065
+Illinois,50-54 years,788673
+Illinois,55-59 years,833446
+Illinois,60-64 years,805014
+Illinois,65-69 years,674898
+Illinois,70-74 years,536843
+Illinois,75-79 years,366390
+Illinois,80-84 years,244247
+Illinois,85+ years,266856
+Indiana,00 years,80450
+Indiana,01-04 years,334968
+Indiana,05-09 years,434108
+Indiana,10-14 years,445948
+Indiana,15-19 years,453671
+Indiana,20-24 years,473342
+Indiana,25-29 years,462908
+Indiana,30-34 years,434416
+Indiana,35-39 years,425820
+Indiana,40-44 years,409613
+Indiana,45-49 years,405826
+Indiana,50-54 years,407516
+Indiana,55-59 years,441287
+Indiana,60-64 years,429795
+Indiana,65-69 years,367051
+Indiana,70-74 years,291831
+Indiana,75-79 years,196730
+Indiana,80-84 years,128482
+Indiana,85+ years,131191
+Iowa,00 years,36974
+Iowa,01-04 years,155608
+Iowa,05-09 years,200418
+Iowa,10-14 years,208584
+Iowa,15-19 years,212414
+Iowa,20-24 years,225417
+Iowa,25-29 years,205697
+Iowa,30-34 years,193099
+Iowa,35-39 years,202157
+Iowa,40-44 years,188432
+Iowa,45-49 years,175188
+Iowa,50-54 years,182403
+Iowa,55-59 years,204652
+Iowa,60-64 years,206382
+Iowa,65-69 years,181101
+Iowa,70-74 years,142248
+Iowa,75-79 years,96126
+Iowa,80-84 years,68566
+Iowa,85+ years,78095
+Kansas,00 years,35281
+Kansas,01-04 years,147823
+Kansas,05-09 years,194309
+Kansas,10-14 years,200006
+Kansas,15-19 years,199563
+Kansas,20-24 years,211506
+Kansas,25-29 years,195871
+Kansas,30-34 years,185657
+Kansas,35-39 years,190942
+Kansas,40-44 years,174069
+Kansas,45-49 years,161696
+Kansas,50-54 years,162031
+Kansas,55-59 years,183329
+Kansas,60-64 years,183406
+Kansas,65-69 years,158510
+Kansas,70-74 years,123948
+Kansas,75-79 years,83800
+Kansas,80-84 years,56571
+Kansas,85+ years,65487
+Kentucky,00 years,52511
+Kentucky,01-04 years,217577
+Kentucky,05-09 years,277704
+Kentucky,10-14 years,282821
+Kentucky,15-19 years,284918
+Kentucky,20-24 years,298443
+Kentucky,25-29 years,305478
+Kentucky,30-34 years,285625
+Kentucky,35-39 years,276935
+Kentucky,40-44 years,274006
+Kentucky,45-49 years,275000
+Kentucky,50-54 years,279414
+Kentucky,55-59 years,303465
+Kentucky,60-64 years,292519
+Kentucky,65-69 years,254276
+Kentucky,70-74 years,208086
+Kentucky,75-79 years,137646
+Kentucky,80-84 years,88385
+Kentucky,85+ years,82442
+Louisiana,00 years,57134
+Louisiana,01-04 years,238771
+Louisiana,05-09 years,301718
+Louisiana,10-14 years,304821
+Louisiana,15-19 years,291669
+Louisiana,20-24 years,303575
+Louisiana,25-29 years,324947
+Louisiana,30-34 years,324056
+Louisiana,35-39 years,314945
+Louisiana,40-44 years,282782
+Louisiana,45-49 years,263611
+Louisiana,50-54 years,273592
+Louisiana,55-59 years,302082
+Louisiana,60-64 years,297865
+Louisiana,65-69 years,255550
+Louisiana,70-74 years,202732
+Louisiana,75-79 years,134974
+Louisiana,80-84 years,87227
+Louisiana,85+ years,83267
+Maine,00 years,12272
+Maine,01-04 years,51108
+Maine,05-09 years,67233
+Maine,10-14 years,71960
+Maine,15-19 years,76937
+Maine,20-24 years,74554
+Maine,25-29 years,80996
+Maine,30-34 years,83447
+Maine,35-39 years,80381
+Maine,40-44 years,76460
+Maine,45-49 years,80488
+Maine,50-54 years,90055
+Maine,55-59 years,104031
+Maine,60-64 years,106443
+Maine,65-69 years,95984
+Maine,70-74 years,79384
+Maine,75-79 years,52124
+Maine,80-84 years,32659
+Maine,85+ years,33625
+Maryland,00 years,69583
+Maryland,01-04 years,289296
+Maryland,05-09 years,371372
+Maryland,10-14 years,377704
+Maryland,15-19 years,377580
+Maryland,20-24 years,368767
+Maryland,25-29 years,404238
+Maryland,30-34 years,421963
+Maryland,35-39 years,411936
+Maryland,40-44 years,380073
+Maryland,45-49 years,373482
+Maryland,50-54 years,403262
+Maryland,55-59 years,427529
+Maryland,60-64 years,391665
+Maryland,65-69 years,319466
+Maryland,70-74 years,259043
+Maryland,75-79 years,176629
+Maryland,80-84 years,111683
+Maryland,85+ years,120531
+Massachusetts,00 years,68824
+Massachusetts,01-04 years,282991
+Massachusetts,05-09 years,367853
+Massachusetts,10-14 years,379381
+Massachusetts,15-19 years,445396
+Massachusetts,20-24 years,480950
+Massachusetts,25-29 years,500717
+Massachusetts,30-34 years,495920
+Massachusetts,35-39 years,450495
+Massachusetts,40-44 years,408671
+Massachusetts,45-49 years,414222
+Massachusetts,50-54 years,456369
+Massachusetts,55-59 years,486443
+Massachusetts,60-64 years,456940
+Massachusetts,65-69 years,382243
+Massachusetts,70-74 years,311598
+Massachusetts,75-79 years,210082
+Massachusetts,80-84 years,136109
+Massachusetts,85+ years,158370
+Michigan,00 years,107849
+Michigan,01-04 years,451290
+Michigan,05-09 years,585009
+Michigan,10-14 years,604840
+Michigan,15-19 years,633603
+Michigan,20-24 years,672087
+Michigan,25-29 years,685946
+Michigan,30-34 years,631856
+Michigan,35-39 years,597658
+Michigan,40-44 years,573538
+Michigan,45-49 years,589665
+Michigan,50-54 years,634675
+Michigan,55-59 years,693475
+Michigan,60-64 years,692623
+Michigan,65-69 years,598895
+Michigan,70-74 years,475867
+Michigan,75-79 years,321684
+Michigan,80-84 years,204282
+Michigan,85+ years,211713
+Minnesota,00 years,66390
+Minnesota,01-04 years,279601
+Minnesota,05-09 years,363435
+Minnesota,10-14 years,369664
+Minnesota,15-19 years,361987
+Minnesota,20-24 years,353979
+Minnesota,25-29 years,377817
+Minnesota,30-34 years,382580
+Minnesota,35-39 years,391474
+Minnesota,40-44 years,348478
+Minnesota,45-49 years,321235
+Minnesota,50-54 years,339589
+Minnesota,55-59 years,381073
+Minnesota,60-64 years,371199
+Minnesota,65-69 years,311506
+Minnesota,70-74 years,240702
+Minnesota,75-79 years,163494
+Minnesota,80-84 years,110392
+Minnesota,85+ years,122747
+Mississippi,00 years,35419
+Mississippi,01-04 years,146244
+Mississippi,05-09 years,187645
+Mississippi,10-14 years,203643
+Mississippi,15-19 years,199040
+Mississippi,20-24 years,200659
+Mississippi,25-29 years,201431
+Mississippi,30-34 years,188216
+Mississippi,35-39 years,185747
+Mississippi,40-44 years,179593
+Mississippi,45-49 years,177552
+Mississippi,50-54 years,178610
+Mississippi,55-59 years,193833
+Mississippi,60-64 years,189199
+Mississippi,65-69 years,164021
+Mississippi,70-74 years,134188
+Mississippi,75-79 years,89582
+Mississippi,80-84 years,58849
+Mississippi,85+ years,53315
+Missouri,00 years,71649
+Missouri,01-04 years,295929
+Missouri,05-09 years,379136
+Missouri,10-14 years,390001
+Missouri,15-19 years,388427
+Missouri,20-24 years,404293
+Missouri,25-29 years,419628
+Missouri,30-34 years,404479
+Missouri,35-39 years,396878
+Missouri,40-44 years,365746
+Missouri,45-49 years,354958
+Missouri,50-54 years,364782
+Missouri,55-59 years,416040
+Missouri,60-64 years,409888
+Missouri,65-69 years,348244
+Missouri,70-74 years,282144
+Missouri,75-79 years,196717
+Missouri,80-84 years,128656
+Missouri,85+ years,133953
+Montana,00 years,11365
+Montana,01-04 years,48549
+Montana,05-09 years,64831
+Montana,10-14 years,66038
+Montana,15-19 years,64601
+Montana,20-24 years,72288
+Montana,25-29 years,71991
+Montana,30-34 years,68626
+Montana,35-39 years,69500
+Montana,40-44 years,64184
+Montana,45-49 years,58066
+Montana,50-54 years,59026
+Montana,55-59 years,70868
+Montana,60-64 years,77252
+Montana,65-69 years,72136
+Montana,70-74 years,57438
+Montana,75-79 years,37308
+Montana,80-84 years,23438
+Montana,85+ years,23072
+Nebraska,00 years,24961
+Nebraska,01-04 years,103756
+Nebraska,05-09 years,133064
+Nebraska,10-14 years,133640
+Nebraska,15-19 years,132940
+Nebraska,20-24 years,135285
+Nebraska,25-29 years,130094
+Nebraska,30-34 years,124613
+Nebraska,35-39 years,130004
+Nebraska,40-44 years,116294
+Nebraska,45-49 years,107821
+Nebraska,50-54 years,105976
+Nebraska,55-59 years,120067
+Nebraska,60-64 years,119600
+Nebraska,65-69 years,103546
+Nebraska,70-74 years,81469
+Nebraska,75-79 years,54146
+Nebraska,80-84 years,37646
+Nebraska,85+ years,42630
+Nevada,00 years,35704
+Nevada,01-04 years,148952
+Nevada,05-09 years,195109
+Nevada,10-14 years,200809
+Nevada,15-19 years,184412
+Nevada,20-24 years,185474
+Nevada,25-29 years,229704
+Nevada,30-34 years,232406
+Nevada,35-39 years,219957
+Nevada,40-44 years,200965
+Nevada,45-49 years,198285
+Nevada,50-54 years,197934
+Nevada,55-59 years,199445
+Nevada,60-64 years,189787
+Nevada,65-69 years,169711
+Nevada,70-74 years,146401
+Nevada,75-79 years,98274
+Nevada,80-84 years,58016
+Nevada,85+ years,46914
+New Hampshire,00 years,12058
+New Hampshire,01-04 years,51031
+New Hampshire,05-09 years,68591
+New Hampshire,10-14 years,73683
+New Hampshire,15-19 years,83054
+New Hampshire,20-24 years,87000
+New Hampshire,25-29 years,87849
+New Hampshire,30-34 years,87649
+New Hampshire,35-39 years,83091
+New Hampshire,40-44 years,76311
+New Hampshire,45-49 years,82550
+New Hampshire,50-54 years,95106
+New Hampshire,55-59 years,108938
+New Hampshire,60-64 years,106235
+New Hampshire,65-69 years,88043
+New Hampshire,70-74 years,70884
+New Hampshire,75-79 years,45817
+New Hampshire,80-84 years,27805
+New Hampshire,85+ years,30580
+New Jersey,00 years,99506
+New Jersey,01-04 years,414445
+New Jersey,05-09 years,532324
+New Jersey,10-14 years,548860
+New Jersey,15-19 years,547485
+New Jersey,20-24 years,536749
+New Jersey,25-29 years,574735
+New Jersey,30-34 years,579811
+New Jersey,35-39 years,578830
+New Jersey,40-44 years,562547
+New Jersey,45-49 years,567832
+New Jersey,50-54 years,606560
+New Jersey,55-59 years,634658
+New Jersey,60-64 years,588001
+New Jersey,65-69 years,473445
+New Jersey,70-74 years,385964
+New Jersey,75-79 years,269675
+New Jersey,80-84 years,179575
+New Jersey,85+ years,201369
+New Mexico,00 years,22576
+New Mexico,01-04 years,96149
+New Mexico,05-09 years,131348
+New Mexico,10-14 years,138955
+New Mexico,15-19 years,138913
+New Mexico,20-24 years,140700
+New Mexico,25-29 years,144593
+New Mexico,30-34 years,140436
+New Mexico,35-39 years,137094
+New Mexico,40-44 years,122783
+New Mexico,45-49 years,116023
+New Mexico,50-54 years,116926
+New Mexico,55-59 years,133752
+New Mexico,60-64 years,136160
+New Mexico,65-69 years,124988
+New Mexico,70-74 years,106758
+New Mexico,75-79 years,70745
+New Mexico,80-84 years,45121
+New Mexico,85+ years,42299
+New York,00 years,220972
+New York,01-04 years,887353
+New York,05-09 years,1114413
+New York,10-14 years,1090249
+New York,15-19 years,1153680
+New York,20-24 years,1243572
+New York,25-29 years,1427987
+New York,30-34 years,1409561
+New York,35-39 years,1268344
+New York,40-44 years,1162869
+New York,45-49 years,1152921
+New York,50-54 years,1250590
+New York,55-59 years,1326609
+New York,60-64 years,1258087
+New York,65-69 years,1050113
+New York,70-74 years,862609
+New York,75-79 years,592543
+New York,80-84 years,403785
+New York,85+ years,460519
+North Carolina,00 years,118309
+North Carolina,01-04 years,488512
+North Carolina,05-09 years,632113
+North Carolina,10-14 years,666756
+North Carolina,15-19 years,689241
+North Carolina,20-24 years,706948
+North Carolina,25-29 years,731816
+North Carolina,30-34 years,705009
+North Carolina,35-39 years,665912
+North Carolina,40-44 years,650663
+North Carolina,45-49 years,674569
+North Carolina,50-54 years,682348
+North Carolina,55-59 years,703580
+North Carolina,60-64 years,670505
+North Carolina,65-69 years,589262
+North Carolina,70-74 years,495220
+North Carolina,75-79 years,331112
+North Carolina,80-84 years,204707
+North Carolina,85+ years,194241
+North Dakota,00 years,10459
+North Dakota,01-04 years,42620
+North Dakota,05-09 years,52006
+North Dakota,10-14 years,49156
+North Dakota,15-19 years,48176
+North Dakota,20-24 years,62341
+North Dakota,25-29 years,58464
+North Dakota,30-34 years,54847
+North Dakota,35-39 years,51724
+North Dakota,40-44 years,43165
+North Dakota,45-49 years,38386
+North Dakota,50-54 years,38775
+North Dakota,55-59 years,45197
+North Dakota,60-64 years,46852
+North Dakota,65-69 years,39924
+North Dakota,70-74 years,29734
+North Dakota,75-79 years,20304
+North Dakota,80-84 years,14546
+North Dakota,85+ years,18633
+Ohio,00 years,132316
+Ohio,01-04 years,552042
+Ohio,05-09 years,710741
+Ohio,10-14 years,727742
+Ohio,15-19 years,745614
+Ohio,20-24 years,747720
+Ohio,25-29 years,792889
+Ohio,30-34 years,768919
+Ohio,35-39 years,725528
+Ohio,40-44 years,685131
+Ohio,45-49 years,692461
+Ohio,50-54 years,727518
+Ohio,55-59 years,790389
+Ohio,60-64 years,796569
+Ohio,65-69 years,682168
+Ohio,70-74 years,551068
+Ohio,75-79 years,363546
+Ohio,80-84 years,245246
+Ohio,85+ years,255610
+Oklahoma,00 years,48675
+Oklahoma,01-04 years,204841
+Oklahoma,05-09 years,269174
+Oklahoma,10-14 years,270884
+Oklahoma,15-19 years,264926
+Oklahoma,20-24 years,276994
+Oklahoma,25-29 years,277864
+Oklahoma,30-34 years,267172
+Oklahoma,35-39 years,265674
+Oklahoma,40-44 years,240274
+Oklahoma,45-49 years,228231
+Oklahoma,50-54 years,222945
+Oklahoma,55-59 years,246854
+Oklahoma,60-64 years,243116
+Oklahoma,65-69 years,210087
+Oklahoma,70-74 years,170460
+Oklahoma,75-79 years,119798
+Oklahoma,80-84 years,77827
+Oklahoma,85+ years,74987
+Oregon,00 years,42018
+Oregon,01-04 years,179028
+Oregon,05-09 years,241871
+Oregon,10-14 years,249649
+Oregon,15-19 years,244980
+Oregon,20-24 years,263425
+Oregon,25-29 years,301585
+Oregon,30-34 years,306634
+Oregon,35-39 years,299852
+Oregon,40-44 years,278687
+Oregon,45-49 years,259294
+Oregon,50-54 years,252733
+Oregon,55-59 years,261028
+Oregon,60-64 years,271196
+Oregon,65-69 years,261600
+Oregon,70-74 years,216952
+Oregon,75-79 years,141422
+Oregon,80-84 years,85056
+Oregon,85+ years,84497
+Pennsylvania,00 years,133055
+Pennsylvania,01-04 years,556049
+Pennsylvania,05-09 years,725467
+Pennsylvania,10-14 years,745345
+Pennsylvania,15-19 years,793290
+Pennsylvania,20-24 years,789841
+Pennsylvania,25-29 years,843698
+Pennsylvania,30-34 years,863353
+Pennsylvania,35-39 years,797952
+Pennsylvania,40-44 years,736057
+Pennsylvania,45-49 years,745910
+Pennsylvania,50-54 years,815481
+Pennsylvania,55-59 years,892737
+Pennsylvania,60-64 years,897332
+Pennsylvania,65-69 years,774779
+Pennsylvania,70-74 years,626479
+Pennsylvania,75-79 years,428508
+Pennsylvania,80-84 years,289281
+Pennsylvania,85+ years,328640
+Rhode Island,00 years,10402
+Rhode Island,01-04 years,43360
+Rhode Island,05-09 years,55021
+Rhode Island,10-14 years,56783
+Rhode Island,15-19 years,69616
+Rhode Island,20-24 years,74115
+Rhode Island,25-29 years,74079
+Rhode Island,30-34 years,74634
+Rhode Island,35-39 years,66540
+Rhode Island,40-44 years,60198
+Rhode Island,45-49 years,61301
+Rhode Island,50-54 years,69430
+Rhode Island,55-59 years,75903
+Rhode Island,60-64 years,73266
+Rhode Island,65-69 years,61188
+Rhode Island,70-74 years,49144
+Rhode Island,75-79 years,33392
+Rhode Island,80-84 years,21796
+Rhode Island,85+ years,26957
+South Carolina,00 years,56371
+South Carolina,01-04 years,234925
+South Carolina,05-09 years,308821
+South Carolina,10-14 years,327318
+South Carolina,15-19 years,325272
+South Carolina,20-24 years,333970
+South Carolina,25-29 years,347980
+South Carolina,30-34 years,341665
+South Carolina,35-39 years,323078
+South Carolina,40-44 years,307260
+South Carolina,45-49 years,313764
+South Carolina,50-54 years,324378
+South Carolina,55-59 years,351090
+South Carolina,60-64 years,345773
+South Carolina,65-69 years,318083
+South Carolina,70-74 years,274965
+South Carolina,75-79 years,182164
+South Carolina,80-84 years,106869
+South Carolina,85+ years,94294
+South Dakota,00 years,11810
+South Dakota,01-04 years,48654
+South Dakota,05-09 years,61387
+South Dakota,10-14 years,61285
+South Dakota,15-19 years,58826
+South Dakota,20-24 years,59560
+South Dakota,25-29 years,57884
+South Dakota,30-34 years,57225
+South Dakota,35-39 years,57060
+South Dakota,40-44 years,51248
+South Dakota,45-49 years,46133
+South Dakota,50-54 years,47567
+South Dakota,55-59 years,57078
+South Dakota,60-64 years,59823
+South Dakota,65-69 years,54035
+South Dakota,70-74 years,40006
+South Dakota,75-79 years,25136
+South Dakota,80-84 years,17144
+South Dakota,85+ years,20856
+Tennessee,00 years,79891
+Tennessee,01-04 years,327507
+Tennessee,05-09 years,416196
+Tennessee,10-14 years,431394
+Tennessee,15-19 years,422864
+Tennessee,20-24 years,447159
+Tennessee,25-29 years,495123
+Tennessee,30-34 years,466816
+Tennessee,35-39 years,435747
+Tennessee,40-44 years,419215
+Tennessee,45-49 years,429098
+Tennessee,50-54 years,434689
+Tennessee,55-59 years,459688
+Tennessee,60-64 years,440904
+Tennessee,65-69 years,383966
+Tennessee,70-74 years,320904
+Tennessee,75-79 years,216659
+Tennessee,80-84 years,135093
+Tennessee,85+ years,123921
+Texas,00 years,377019
+Texas,01-04 years,1591888
+Texas,05-09 years,2086674
+Texas,10-14 years,2119719
+Texas,15-19 years,2067665
+Texas,20-24 years,2030723
+Texas,25-29 years,2173086
+Texas,30-34 years,2145484
+Texas,35-39 years,2091557
+Texas,40-44 years,1927702
+Texas,45-49 years,1850386
+Texas,50-54 years,1726449
+Texas,55-59 years,1713628
+Texas,60-64 years,1585096
+Texas,65-69 years,1305244
+Texas,70-74 years,1034668
+Texas,75-79 years,687927
+Texas,80-84 years,431914
+Texas,85+ years,413930
+Utah,00 years,47431
+Utah,01-04 years,194302
+Utah,05-09 years,258247
+Utah,10-14 years,269625
+Utah,15-19 years,257119
+Utah,20-24 years,269900
+Utah,25-29 years,254772
+Utah,30-34 years,224804
+Utah,35-39 years,228952
+Utah,40-44 years,221657
+Utah,45-49 years,181260
+Utah,50-54 years,156123
+Utah,55-59 years,153879
+Utah,60-64 years,150215
+Utah,65-69 years,129086
+Utah,70-74 years,100966
+Utah,75-79 years,68599
+Utah,80-84 years,43419
+Utah,85+ years,39523
+Vermont,00 years,5330
+Vermont,01-04 years,22928
+Vermont,05-09 years,31177
+Vermont,10-14 years,32888
+Vermont,15-19 years,40826
+Vermont,20-24 years,44561
+Vermont,25-29 years,38311
+Vermont,30-34 years,36979
+Vermont,35-39 years,37172
+Vermont,40-44 years,35086
+Vermont,45-49 years,35843
+Vermont,50-54 years,39961
+Vermont,55-59 years,46112
+Vermont,60-64 years,47579
+Vermont,65-69 years,42881
+Vermont,70-74 years,34732
+Vermont,75-79 years,22903
+Vermont,80-84 years,13721
+Vermont,85+ years,14357
+Virginia,00 years,97752
+Virginia,01-04 years,405713
+Virginia,05-09 years,518139
+Virginia,10-14 years,527084
+Virginia,15-19 years,542556
+Virginia,20-24 years,574562
+Virginia,25-29 years,600352
+Virginia,30-34 years,595125
+Virginia,35-39 years,584382
+Virginia,40-44 years,542709
+Virginia,45-49 years,535696
+Virginia,50-54 years,548618
+Virginia,55-59 years,579969
+Virginia,60-64 years,536862
+Virginia,65-69 years,451144
+Virginia,70-74 years,376422
+Virginia,75-79 years,256621
+Virginia,80-84 years,160221
+Virginia,85+ years,156636
+Washington,00 years,86481
+Washington,01-04 years,363482
+Washington,05-09 years,471749
+Washington,10-14 years,470688
+Washington,15-19 years,447495
+Washington,20-24 years,483806
+Washington,25-29 years,589762
+Washington,30-34 years,599790
+Washington,35-39 years,562639
+Washington,40-44 years,494461
+Washington,45-49 years,459817
+Washington,50-54 years,461427
+Washington,55-59 years,480318
+Washington,60-64 years,473823
+Washington,65-69 years,419962
+Washington,70-74 years,338543
+Washington,75-79 years,221034
+Washington,80-84 years,132954
+Washington,85+ years,135381
+West Virginia,00 years,17447
+West Virginia,01-04 years,73705
+West Virginia,05-09 years,99916
+West Virginia,10-14 years,102462
+West Virginia,15-19 years,105098
+West Virginia,20-24 years,110872
+West Virginia,25-29 years,110042
+West Virginia,30-34 years,104679
+West Virginia,35-39 years,103226
+West Virginia,40-44 years,108263
+West Virginia,45-49 years,111427
+West Virginia,50-54 years,113789
+West Virginia,55-59 years,122345
+West Virginia,60-64 years,127947
+West Virginia,65-69 years,119480
+West Virginia,70-74 years,102696
+West Virginia,75-79 years,67009
+West Virginia,80-84 years,44074
+West Virginia,85+ years,40310
+Wisconsin,00 years,62759
+Wisconsin,01-04 years,263520
+Wisconsin,05-09 years,344504
+Wisconsin,10-14 years,365405
+Wisconsin,15-19 years,375588
+Wisconsin,20-24 years,391233
+Wisconsin,25-29 years,379942
+Wisconsin,30-34 years,361035
+Wisconsin,35-39 years,373429
+Wisconsin,40-44 years,348592
+Wisconsin,45-49 years,334405
+Wisconsin,50-54 years,364455
+Wisconsin,55-59 years,414047
+Wisconsin,60-64 years,405806
+Wisconsin,65-69 years,348757
+Wisconsin,70-74 years,271667
+Wisconsin,75-79 years,181013
+Wisconsin,80-84 years,119829
+Wisconsin,85+ years,126669
+Wyoming,00 years,6323
+Wyoming,01-04 years,27462
+Wyoming,05-09 years,36987
+Wyoming,10-14 years,39600
+Wyoming,15-19 years,37004
+Wyoming,20-24 years,38293
+Wyoming,25-29 years,37451
+Wyoming,30-34 years,38655
+Wyoming,35-39 years,39547
+Wyoming,40-44 years,35979
+Wyoming,45-49 years,32353
+Wyoming,50-54 years,31584
+Wyoming,55-59 years,36743
+Wyoming,60-64 years,40571
+Wyoming,65-69 years,36081
+Wyoming,70-74 years,27733
+Wyoming,75-79 years,17823
+Wyoming,80-84 years,11125
+Wyoming,85+ years,11014
+Washington DC,00 years,9225
+Washington DC,01-04 years,35075
+Washington DC,05-09 years,39363
+Washington DC,10-14 years,30407
+Washington DC,15-19 years,36293
+Washington DC,20-24 years,51048
+Washington DC,25-29 years,81666
+Washington DC,30-34 years,83058
+Washington DC,35-39 years,65432
+Washington DC,40-44 years,47565
+Washington DC,45-49 years,38442
+Washington DC,50-54 years,35610
+Washington DC,55-59 years,36474
+Washington DC,60-64 years,33325
+Washington DC,65-69 years,28625
+Washington DC,70-74 years,22932
+Washington DC,75-79 years,15577
+Washington DC,80-84 years,10409
+Washington DC,85+ years,12290

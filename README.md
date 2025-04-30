@@ -18,4 +18,4 @@ Install the corresponding version of R in the environment, open the `app.R` scri
 R app.R
 ```
 
-![demo](demo.png)
+<img src="demo.png" width="100%" />

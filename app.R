@@ -1,5 +1,5 @@
 source('plot.R')
-cancer<-read.csv('cancer_freq.csv',header=T)
+cancer<-read.csv('cancer_freq_filtered.csv',header=T)
 colnames(cancer)[1] <- "Sex"
 cancer<-cancer[which(cancer$Rural.Urban.Continuum.Code=="Metropolitan Counties"|cancer$Rural.Urban.Continuum.Code=="Nonmetropolitan Counties"|
                        cancer$Rural.Urban.Continuum.Code=='Unknown/missing/no match (Alaska or Hawaii - Entire State)'),]

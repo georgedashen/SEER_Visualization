@@ -17,3 +17,5 @@ Install the corresponding version of R in the environment, open the `app.R` scri
 ```Bash
 R app.R
 ```
+
+![demo](demo.png)

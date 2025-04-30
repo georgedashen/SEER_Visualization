@@ -18,4 +18,4 @@ Install the corresponding version of R in the environment, open the `app.R` scri
 R app.R
 ```
 
-<img src="demo.pdf" width="100%" />
+<img src="demo.svg" width="100%" />
